@@ -1,0 +1,38 @@
+{
+  "name": "persian-digit-tools",
+  "version": "1.0.0",
+  "description": " a library for convert english digit to persian and vice versa",
+  "main": "built/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "mocha --reporter spec",
+    "cover": "istanbul cover node_modules/mocha/bin/_mocha test/*.js -- -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MetaiR/persian-digit-tools.git"
+  },
+  "keywords": [
+    "persian",
+    "digit",
+    "convertor",
+    "convert",
+    "digit-convertor",
+    "persian-digit-convertor",
+    "tools",
+    "persian-digit-tools"
+  ],
+  "author": "Seyed Ali Roshan <Seyedalilight@gmail.com>",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/MetaiR/persian-digit-tools/issues"
+  },
+  "homepage": "https://github.com/MetaiR/persian-digit-tools#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "coveralls": "^3.0.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^5.0.1",
+    "typescript": "^2.7.2"
+  }
+}
