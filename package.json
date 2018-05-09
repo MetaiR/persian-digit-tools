@@ -30,9 +30,9 @@
   "homepage": "https://github.com/MetaiR/persian-digit-tools#readme",
   "devDependencies": {
     "chai": "^4.1.2",
-    "coveralls": "^3.0.0",
+    "coveralls": "^3.0.1",
     "istanbul": "^0.4.5",
-    "mocha": "^5.0.1",
-    "typescript": "^2.7.2"
+    "mocha": "^5.1.1",
+    "typescript": "^2.8.3"
   }
 }
