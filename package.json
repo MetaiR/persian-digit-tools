@@ -1,6 +1,6 @@
 {
   "name": "persian-digit-tools",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": " a library for convert english digit to persian and vice versa",
   "main": "built/index.js",
   "scripts": {
